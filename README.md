@@ -1,3 +1,5 @@
+参考中文微信文章：https://mp.weixin.qq.com/s/HXGs1TSmQDFNYP4pSAATsQ
+
 QRCode
 ======
 
